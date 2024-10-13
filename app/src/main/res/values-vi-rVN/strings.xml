@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ứng dụng của tôi</string>
+    <string name="setting_title">Cài đặt</string>
+    <string name="btn_text_vi">Tiếng Việt</string>
+    <string name="btn_text_en">Tiếng Anh\n</string>
+    <string name="trang_c_nh_n">Trang cá nhân</string>
+    <string name="l_p_h_c">Lớp học</string>
+    <string name="c_i_t">Cài đặt</string>
+    <string name="t_n_nguy_n_v_n_nh_n">Tên : Nguyễn Văn Nhân</string>
+    <string name="ng_y_sinh_08_07_2004">Ngày sinh : 08/07/2004</string>
+    <string name="gi_i_t_nh_nam">Giới tính : Nam</string>
+    <string name="m_sinh_vi_n_22115053122126">Mã sinh viên : 22115053122126</string>
+    <string name="l_p_22t1">Lớp : 22T1</string>
+    <string name="theme_switch_label">Giao diện toi</string>
+</resources>

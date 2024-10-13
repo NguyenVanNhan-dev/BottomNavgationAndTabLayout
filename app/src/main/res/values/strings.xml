@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="setting_title">Settings</string>
+    <string name="btn_text_vi">Vietnamese</string>
+    <string name="btn_text_en">English\n</string>
+    <string name="trang_c_nh_n">Profile</string>
+    <string name="l_p_h_c">Class</string>
+    <string name="c_i_t">Settings</string>
+    <string name="t_n_nguy_n_v_n_nh_n">Name : Nguyen Van Nhan</string>
+    <string name="ng_y_sinh_08_07_2004">Date : 08/07/2004</string>
+    <string name="gi_i_t_nh_nam">Gender : Nam</string>
+    <string name="m_sinh_vi_n_22115053122126">Id Student : 22115053122126</string>
+    <string name="l_p_22t1">Class : 22T1</string>
+    <string name="theme_switch_label">Dark Theme</string>
+</resources>
